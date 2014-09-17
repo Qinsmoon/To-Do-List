@@ -6,6 +6,8 @@
 - ~~SAP视频~~
 - ~~AP作业~~
 - ~~print my report~~
+- ~~ppt~~
+- 完善ppt
 - wai mai  lehui
 - ~~写报告~~
 - ~~上传新的外卖照片 是 豪大大鸡排~~
