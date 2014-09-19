@@ -7,7 +7,6 @@
 - ~~service 写完~~
 - ~~交付最终版的ppt~~
 - wai mai  lehui
-- :memo:
 
 ### DDL:Sep. 20th
 
