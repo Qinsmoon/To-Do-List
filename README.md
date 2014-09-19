@@ -3,9 +3,9 @@
 
 ### 今天必做的事情
 
-- 完善ppt
-- service 写完
-- 交付最终版的ppt
+- ~~完善ppt~~
+- ~~service 写完~~
+- ~~交付最终版的ppt~~
 - wai mai  lehui
 
 ### DDL:Sep. 20th
